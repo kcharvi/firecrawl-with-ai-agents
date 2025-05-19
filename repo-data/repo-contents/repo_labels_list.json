@@ -1,0 +1,232 @@
+[
+    {
+        "name": "backlog",
+        "color": "fafafa",
+        "description": ""
+    },
+    {
+        "name": "blocked",
+        "color": "BFD4F2",
+        "description": ""
+    },
+    {
+        "name": "Broken Link",
+        "color": "1d76db",
+        "description": ""
+    },
+    {
+        "name": "bug",
+        "color": "d73a4a",
+        "description": "Something isn't working"
+    },
+    {
+        "name": "chore",
+        "color": "441FCD",
+        "description": ""
+    },
+    {
+        "name": "ci",
+        "color": "C486F9",
+        "description": ""
+    },
+    {
+        "name": "community",
+        "color": "0E8D79",
+        "description": ""
+    },
+    {
+        "name": "Customer Request",
+        "color": "0E8A16",
+        "description": ""
+    },
+    {
+        "name": "dependencies",
+        "color": "0366d6",
+        "description": "Pull requests that update a dependency file"
+    },
+    {
+        "name": "discussion",
+        "color": "2A385A",
+        "description": ""
+    },
+    {
+        "name": "documentation",
+        "color": "0075ca",
+        "description": "Improvements or additions to documentation"
+    },
+    {
+        "name": "draft",
+        "color": "3E5926",
+        "description": ""
+    },
+    {
+        "name": "duplicate",
+        "color": "cfd3d7",
+        "description": "This issue or pull request already exists"
+    },
+    {
+        "name": "enhancement",
+        "color": "a2eeef",
+        "description": "New feature or request"
+    },
+    {
+        "name": "ext-pending-merge",
+        "color": "FBCA04",
+        "description": ""
+    },
+    {
+        "name": "good first issue",
+        "color": "7057ff",
+        "description": "Good for newcomers"
+    },
+    {
+        "name": "help wanted",
+        "color": "008672",
+        "description": "Extra attention is needed"
+    },
+    {
+        "name": "high-priority",
+        "color": "A53A40",
+        "description": ""
+    },
+    {
+        "name": "Improvement",
+        "color": "4EA7FC",
+        "description": null
+    },
+    {
+        "name": "in review",
+        "color": "0129D8",
+        "description": ""
+    },
+    {
+        "name": "infra",
+        "color": "81BEC6",
+        "description": ""
+    },
+    {
+        "name": "integration",
+        "color": "33E529",
+        "description": ""
+    },
+    {
+        "name": "invalid",
+        "color": "e4e669",
+        "description": "This doesn't seem right"
+    },
+    {
+        "name": "javascript",
+        "color": "168700",
+        "description": "Pull requests that update Javascript code"
+    },
+    {
+        "name": "js-sdk",
+        "color": "AD5822",
+        "description": ""
+    },
+    {
+        "name": "logging",
+        "color": "7039C5",
+        "description": ""
+    },
+    {
+        "name": "low priority",
+        "color": "655F03",
+        "description": ""
+    },
+    {
+        "name": "python",
+        "color": "2b67c6",
+        "description": "Pull requests that update Python code"
+    },
+    {
+        "name": "question",
+        "color": "d876e3",
+        "description": "Further information is requested"
+    },
+    {
+        "name": "ready to merge",
+        "color": "48C287",
+        "description": ""
+    },
+    {
+        "name": "release",
+        "color": "ff4000",
+        "description": ""
+    },
+    {
+        "name": "sdk",
+        "color": "ABC6FC",
+        "description": ""
+    },
+    {
+        "name": "self-host",
+        "color": "8200C8",
+        "description": ""
+    },
+    {
+        "name": "stale",
+        "color": "776F7E",
+        "description": ""
+    },
+    {
+        "name": "v1",
+        "color": "35F4DC",
+        "description": ""
+    },
+    {
+        "name": "wait4+1",
+        "color": "8A650A",
+        "description": ""
+    },
+    {
+        "name": "waiting-for-i-tests",
+        "color": "F0D732",
+        "description": ""
+    },
+    {
+        "name": "waiting-for-license",
+        "color": "DE2F9D",
+        "description": ""
+    },
+    {
+        "name": "waiting-for-review",
+        "color": "5853ED",
+        "description": ""
+    },
+    {
+        "name": "waiting-on-contributor",
+        "color": "09D28C",
+        "description": ""
+    },
+    {
+        "name": "website",
+        "color": "2A5F6C",
+        "description": ""
+    },
+    {
+        "name": "wip",
+        "color": "2FC3EB",
+        "description": ""
+    },
+    {
+        "name": "wontfix",
+        "color": "ffffff",
+        "description": "This will not be worked on"
+    },
+    {
+        "name": "💎 Bounty",
+        "color": "4f46e5",
+        "description": null
+    },
+    {
+        "name": "💰 Rewarded",
+        "color": "15803d",
+        "description": null
+    },
+    {
+        "name": "🙋 Bounty claim",
+        "color": "0d9488",
+        "description": null
+    }
+]
