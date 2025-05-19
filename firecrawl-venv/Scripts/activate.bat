@@ -8,7 +8,7 @@ if defined _OLD_CODEPAGE (
     "%SystemRoot%\System32\chcp.com" 65001 > nul
 )
 
-set VIRTUAL_ENV=C:\Users\91740\Desktop\AllProjects\firecrawl-main\firecrawl-venv
+set VIRTUAL_ENV=D:\Documents\Studies\Github Repositories\firecrawl-with-ai-agents\firecrawl-venv
 
 if not defined PROMPT set PROMPT=$P$G
 
