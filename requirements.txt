@@ -1,0 +1,29 @@
+# GitHub API
+PyGithub
+
+# Environment Variables
+python-dotenv
+
+# Google Gemini AI
+google-generativeai
+
+# LangChain
+langchain
+langchain-google-genai
+langchain-core
+
+# Date/Time Handling
+python-dateutil
+
+# Type Hints
+typing-extensions
+
+# HTTP Client
+requests
+
+# JSON Processing
+jsonschema
+
+# Utilities
+tqdm
+colorama
